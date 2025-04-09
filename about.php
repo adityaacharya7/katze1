@@ -272,8 +272,7 @@ if (isset($_SESSION['username'])) {
 						<div class="team-bg team-bg-1"></div>
 						<h4>Aditya Acharya<span>Co-founder</span></h4>
 						<ul class="social-link-team">
-							<li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							
 							<li><a href="https://www.instagram.com/adityaacharyax?igsh=MTR4MGR0aDRzNmtoeA==" target="_blank"><i class="fab fa-instagram"></i></a></li>
 						</ul>
 					</div>
@@ -283,8 +282,7 @@ if (isset($_SESSION['username'])) {
 						<div class="team-bg team-bg-2"></div>
 						<h4>Tanmay Gawade <span>Co-founder</span></h4>
 						<ul class="social-link-team">
-							<li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							
 							<li><a href="https://www.instagram.com/_txnmxyyy_?igsh=c21keG5hdmxyY2k2" target="_blank"><i class="fab fa-instagram"></i></a></li>
 						</ul>
 					</div>
@@ -294,8 +292,7 @@ if (isset($_SESSION['username'])) {
 						<div class="team-bg team-bg-3"></div>
 						<h4>Anamika Ashokkumar <span>Pet Expert</span></h4>
 						<ul class="social-link-team">
-							<li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							
 							<li><a href="https://www.instagram.com/_ana_.mika.a?igsh=MnE5eGZyNXY3aXZq" target="_blank"><i class="fab fa-instagram"></i></a></li>
 						</ul>
 					</div>
