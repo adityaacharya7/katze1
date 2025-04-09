@@ -54,7 +54,7 @@
 
             <!-- Sign in link -->
             <p class="register">Already a member? <a href="login_page.php">Login here!</a></p>
-            <p class="aboutus">Check us out!! <a href="about.php">About us</a></p>
+            
 
             <div id="geo-location" style="color: white; font-size: 14px;"></div>
             <div id="geo-location1" style="color: white; font-size: 14px;"></div>

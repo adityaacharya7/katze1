@@ -90,7 +90,7 @@
 
                 <!-- Sign up and About Us links -->
                 <p class="register">Not a member?  <a href="Sign Up.php">Register here!</a></p>
-                <p class="aboutus">Check us out!!  <a href="about.php">About us</a></p>
+                
                 
                 <br>
                 <div id="geo-location" style="color: white; font-size: 14px;"></div>
