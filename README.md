@@ -1,4 +1,4 @@
-Here's a detailed `README.md` file tailored for your **Katze – Pet Care and Adoption Website** project:
+Katze - Katze – Pet Care & Adoption Platform
 
 ---
 
